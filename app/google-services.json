@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "229579043271",
+    "firebase_url": "https://smartcityhack-a3ad6.firebaseio.com",
+    "project_id": "smartcityhack-a3ad6",
+    "storage_bucket": "smartcityhack-a3ad6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:229579043271:android:d5467a2ce8c8de448369e2",
+        "android_client_info": {
+          "package_name": "org.lightoshadow.smartcityhack"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "229579043271-btrn9ut4fid23ukr22h00c0a5shkm6br.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "org.lightoshadow.smartcityhack",
+            "certificate_hash": "d8bcda669723329828af8860aba304c0ba36365e"
+          }
+        },
+        {
+          "client_id": "229579043271-efd37i1eoe8usp8tn8a8243rb6ttbpt1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3B0NcKN-h4l35VKNOq5SF3cX8DW6xXI4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "229579043271-efd37i1eoe8usp8tn8a8243rb6ttbpt1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
